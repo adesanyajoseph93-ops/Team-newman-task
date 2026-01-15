@@ -1,2 +1,3 @@
 # Team-newman-task
-t
+This is my first respository.Configuring it to get notificatoin on sack
+
